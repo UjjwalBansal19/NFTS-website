@@ -1,0 +1,16 @@
+.nft-collection{
+    height:650px;
+    background-color:white;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.cards-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 18px;
+}
